@@ -1,0 +1,223 @@
+{
+  "source": "reference",
+  "total": 29,
+  "passed": 29,
+  "failed": 0,
+  "problems": [
+    {
+      "id": "P001",
+      "title": "Two Sum in a Sorted Array",
+      "passed": 5,
+      "failed": 0,
+      "cases": [
+        {
+          "case": 1,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.003
+        },
+        {
+          "case": 2,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.002
+        },
+        {
+          "case": 3,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.001
+        },
+        {
+          "case": 4,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.002
+        },
+        {
+          "case": 5,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.001
+        }
+      ]
+    },
+    {
+      "id": "P002",
+      "title": "Longest Substring Without Repeating Characters",
+      "passed": 7,
+      "failed": 0,
+      "cases": [
+        {
+          "case": 1,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.005
+        },
+        {
+          "case": 2,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.002
+        },
+        {
+          "case": 3,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.001
+        },
+        {
+          "case": 4,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.002
+        },
+        {
+          "case": 5,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.001
+        },
+        {
+          "case": 6,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.002
+        },
+        {
+          "case": 7,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.002
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "title": "Merge Overlapping Intervals",
+      "passed": 6,
+      "failed": 0,
+      "cases": [
+        {
+          "case": 1,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.007
+        },
+        {
+          "case": 2,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.003
+        },
+        {
+          "case": 3,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.001
+        },
+        {
+          "case": 4,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.002
+        },
+        {
+          "case": 5,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.002
+        },
+        {
+          "case": 6,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.002
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "title": "Shortest Path in a Binary Grid",
+      "passed": 7,
+      "failed": 0,
+      "cases": [
+        {
+          "case": 1,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.014
+        },
+        {
+          "case": 2,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.004
+        },
+        {
+          "case": 3,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.002
+        },
+        {
+          "case": 4,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.002
+        },
+        {
+          "case": 5,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.003
+        },
+        {
+          "case": 6,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.003
+        },
+        {
+          "case": 7,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.004
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "title": "Range Sum Query \u2013 Immutable Array",
+      "passed": 4,
+      "failed": 0,
+      "cases": [
+        {
+          "case": 1,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.004
+        },
+        {
+          "case": 2,
+          "visibility": "public",
+          "passed": true,
+          "elapsed_ms": 0.002
+        },
+        {
+          "case": 3,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.026
+        },
+        {
+          "case": 4,
+          "visibility": "edge",
+          "passed": true,
+          "elapsed_ms": 0.002
+        }
+      ]
+    }
+  ],
+  "pass_rate": 1.0
+}
